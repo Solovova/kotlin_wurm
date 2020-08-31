@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d55e9de4-8f60-43d4-91ff-72ea7eacea32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gui/gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wurm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/main/kotlin/com/solovova/wurm/gui/MainGUI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/main/kotlin/com/solovova/wurm/gui/controller/MainController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/main/resources/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1grl9UBBi7HAKF5fU4CIADIjfro" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGUI" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="gui" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.solovova.wurm.gui.MainGUI" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d55e9de4-8f60-43d4-91ff-72ea7eacea32" name="Default Changelist" comment="" />
+      <created>1598880440782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598880440782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598880867811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1598880867811" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598881040024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1598881040024" />
+    <state x="623" y="229" key="search.everywhere.popup" timestamp="1598881095005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" key="search.everywhere.popup/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1598881095005" />
+  </component>
+</project>
